@@ -1,0 +1,7 @@
+C:\Users\Nacho\source\repos\AySO_Matriz\bin\Debug\AySO_Matriz.exe.config
+C:\Users\Nacho\source\repos\AySO_Matriz\bin\Debug\AySO_Matriz.exe
+C:\Users\Nacho\source\repos\AySO_Matriz\bin\Debug\AySO_Matriz.pdb
+C:\Users\Nacho\source\repos\AySO_Matriz\obj\Debug\AySO_Matriz.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\AySO_Matriz\obj\Debug\AySO_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\AySO_Matriz\obj\Debug\AySO_Matriz.exe
+C:\Users\Nacho\source\repos\AySO_Matriz\obj\Debug\AySO_Matriz.pdb
